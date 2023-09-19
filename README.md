@@ -67,6 +67,10 @@ npm run dev
 npm run dev -- --open
 ```
 
+Install static adapter
+npm install @sveltejs/adapter-static --save-dev
+
+
 ## Building
 
 To create a production version of your app:
