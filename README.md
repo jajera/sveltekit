@@ -73,11 +73,6 @@ npm run build
 npm run preview
 ```
 
-> To deploy your app, you may need to install an [adapter](https://kit.svelte.dev/docs/adapters) for your target environment.
-
-https://sveltekitsaas.com/articles/sveltekit-github-pages-guide/
-https://github.com/Glench/sveltekit-github-pages-template/blob/main/svelte.config.js
-
 <!-- MARKDOWN LINKS & IMAGES -->
 [contributors-shield]: https://img.shields.io/github/contributors/jajera/jekyll.svg?style=for-the-badge
 [contributors-url]: https://github.com/jajera/jekyll/graphs/contributors
